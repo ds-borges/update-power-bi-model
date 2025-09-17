@@ -1,6 +1,5 @@
 import pyautogui
 import time
-from win10toast import ToastNotifier
 
 pyautogui.PAUSE = 0.7
 from plyer import notification
